@@ -1,0 +1,15 @@
+{
+  "fitbit": {
+
+    "appType": "app",
+    "appDisplayName": "MeterWidget",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#607d8b",
+    "requestedPermissions": [],
+    "i18n": {
+      "en": {
+        "name": "MeterWidget"
+      }
+    }
+  }
+}

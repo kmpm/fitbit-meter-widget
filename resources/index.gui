@@ -1,0 +1,30 @@
+<svg>
+  <defs>
+    <link rel="import" href="meter_widget.gui" />
+  </defs>
+  
+  <use id="meter1" href="#meter-blue-icon" x="0" y="0">
+    <!-- <set href="#arc" attributeName="sweep-angle" to="290" /> -->
+    <set href="#image" attributeName="href" to="fitbit-design-assets/stat_steps_solid_32px.png" />
+  </use>
+  <use id="meter2" href="#meter-orange-icon" x="80" y="0">
+    <set href="#image" attributeName="href" to="fitbit-design-assets/stat_am_solid_32px.png" />
+  </use>
+  <use id="meter3" href="#meter-green-icon" x="160" y="0">
+    <set href="#image" attributeName="href" to="fitbit-design-assets/stat_elevation_32px_p.png" />
+  </use>
+  
+  <use id="meter4" href="#meter-red-icon" x="240" y="0">
+     <set href="#image" attributeName="href" to="fitbit-design-assets/stat_hr_solid_32px.png" />
+   </use>
+  
+  <use id="meter5" href="#meter-orange-icon" x="0" y="80">
+    <set href="#image" attributeName="href" to="fitbit-design-assets/stat_cals_solid_32px.png" />
+  </use>
+  
+  <use id="meter6" href="#meter-red" x="0" y="160" />
+  
+  <use id="meter7" href="#meter-orange-icon" x="160" y="160">
+    <set href="#image" attributeName="href" to="fitbit-design-assets/stat_floors_solid_32px.png" />
+  </use>
+</svg>
