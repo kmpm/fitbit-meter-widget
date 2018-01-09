@@ -22,10 +22,10 @@ You will need...
 
 Usage
 =====
-Include the [resources/meter_widget.gui]() and [app/meter_widget.js]() in you own project
+Include the [resources/meter_widget.gui](./resources/meter_widget.gui) and [app/meter_widget.js](./app/meter_widget.js) in you own project
 along with any 32pxx32px icons that you would like in you own project.
 
-Look at [app/index.js]() and [resources/index.gui]() for examples on how to use them. 
+Look at [app/index.js](./app/index.js) and [resources/index.gui](./resources/index.gui) for examples on how to use them. 
 It's not that hard.
 If you do your own icons, make sure they are 8-bit greyscale to work with the 
 [GrayScale Magic!](https://dev.fitbit.com/build/guides/user-interface/css/#grayscale-magic-)
